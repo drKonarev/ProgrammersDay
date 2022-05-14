@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Praktikum {
 
     public static void main(String[] args) {
+        System.out.println("Пробую коммит и пуш через идею");
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите год:");
         int year = scanner.nextInt();
